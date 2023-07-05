@@ -31,3 +31,7 @@ In k8s version 1.19+, we can specify the --replicas option to create a deploymen
 **View config**
 
 `kubectl config view`
+
+#### View api resources
+
+`kubestl api-resources`
